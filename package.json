@@ -1,0 +1,24 @@
+{
+  "name": "umi-plugin-mock",
+  "version": "1.0.0",
+  "description": "更简洁的 umi mock 管理方案",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeguooooo/umi-plugin-mock.git"
+  },
+  "keywords": [
+    "umi",
+    "plugin",
+    "mock"
+  ],
+  "author": "lee.guo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeguooooo/umi-plugin-mock/issues"
+  },
+  "homepage": "https://github.com/leeguooooo/umi-plugin-mock#readme"
+}
